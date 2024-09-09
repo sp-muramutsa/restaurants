@@ -1,0 +1,303 @@
+name,address,restaurant_type
+526 Ponce De Leon Blvd,"Atlanta, GA 30308",McDonalds
+443 Moreland Ave,"Atlanta, GA 30316",McDonalds
+1176 Ralph David Abernathy Blvd,"Atlanta, GA 30310",McDonalds
+1105 Northside Dr,"Atlanta, GA 30318",McDonalds
+2091 Stewart Ave,"Atlanta, GA 30315",McDonalds
+1994 Howell Mill Road,"Atlanta, GA 30318",McDonalds
+2442 Martin Luther King Dr,"Atlanta, GA 30331",McDonalds
+name,address,restaurant_type
+526 Ponce De Leon Blvd,"Atlanta, GA 30308",McDonalds
+443 Moreland Ave,"Atlanta, GA 30316",McDonalds
+1176 Ralph David Abernathy Blvd,"Atlanta, GA 30310",McDonalds
+1105 Northside Dr,"Atlanta, GA 30318",McDonalds
+2091 Stewart Ave,"Atlanta, GA 30315",McDonalds
+1994 Howell Mill Road,"Atlanta, GA 30318",McDonalds
+2442 Martin Luther King Dr,"Atlanta, GA 30331",McDonalds
+name,address,restaurant_type
+111 W Jackson,"Chicago, IL 60604",McDonalds
+23 S Clark,"Chicago, IL 60603",McDonalds
+180 W Adams,"Chicago, IL 60603-3602",McDonalds
+225 S CANAL ST (Union Station),"Chicago, IL 60606",McDonalds
+203 N Lasalle St,"Chicago, IL 60601",McDonalds
+233 N Michigan,"Chicago, IL 60601",McDonalds
+600 N Clark,"Chicago, IL 60610-3702",McDonalds
+645 N Mcclurg Ct,"Chicago, IL 60611-3000",McDonalds
+1035 W Randolph,"Chicago, IL 60607",McDonalds
+10 E Chicago Ave,"Chicago, IL 60611-2009",McDonalds
+600 E GRAND AVE (Navy Pier),"Chicago, IL 60611",McDonalds
+1380 W Lake Street,"Chicago, IL 60607",McDonalds
+1664 S Blue Island,"Chicago, IL 60608",McDonalds
+2525 S Martin Luther King Dr,"Chicago, IL 60616",McDonalds
+1563 N Wells,"Chicago, IL 60610",McDonalds
+2005 W Chicago Ave,"Chicago, IL 60622-5549",McDonalds
+3020 S Halsted St,"Chicago, IL 60608",McDonalds
+23 N Western Avenue,"Chicago, IL 60612-2200",McDonalds
+2315 W. Ogden Ave,"Chicago, IL 60608",McDonalds
+207 E 35th St,"Chicago, IL 60653",McDonalds
+2438 W Cermak,"Chicago, IL 60623",McDonalds
+2635 N Clark St,"Chicago, IL 60614-1524",McDonalds
+1737 W Fullerton,"Chicago, IL 60614",McDonalds
+1951 N Western Ave,"Chicago, IL 60647-4331",McDonalds
+3200 W Roosevelt,"Chicago, IL 60624-4332",McDonalds
+2834 N Ashland Ave,"Chicago, IL 60657-4042",McDonalds
+2609 S Kedzie Ave,"Chicago, IL 60623-4731",McDonalds
+4158 S Ashland,"Chicago, IL 60609-2330",McDonalds
+3245 W North Avenue,"Chicago, IL 60641",McDonalds
+3867 Archer Ave,"Chicago, IL 60632-1005",McDonalds
+address,distance,restaurant_type
+"11260 N. Central Expressway, Dallas, TX 75243, USA",8.75,Subway
+"8181 South Lancaster Rd, Dallas, TX 75241, USA",8.92,Subway
+"10325 Lake June Road, Dallas, TX 75217, USA",9.11,Subway
+"11076 Harry Hines Blvd, Dallas, TX 75229, USA",9.20,Subway
+"7777 Forest Lane, Dallas, TX 72530, USA",9.42,Subway
+"8702 S Polk St, Dallas, TX 75232, USA",9.50,Subway
+"8207 S. Hampton Road, Dallas, TX 75232, USA",9.63,Subway
+"9730 Abrams Road, Dallas, TX 75243, USA",9.80,Subway
+"3612 Forest Lane, Dallas, TX 75234, USA",9.84,Subway
+"10660 Plano Rd, Dallas, TX 75238, USA",9.86,Subway
+"11260 N. Central Expressway, Dallas, TX 75243, USA",8.75,Subway
+"8181 South Lancaster Rd, Dallas, TX 75241, USA",8.92,Subway
+"10325 Lake June Road, Dallas, TX 75217, USA",9.11,Subway
+"11076 Harry Hines Blvd, Dallas, TX 75229, USA",9.20,Subway
+"7777 Forest Lane, Dallas, TX 72530, USA",9.42,Subway
+"8702 S Polk St, Dallas, TX 75232, USA",9.50,Subway
+"8207 S. Hampton Road, Dallas, TX 75232, USA",9.63,Subway
+"9730 Abrams Road, Dallas, TX 75243, USA",9.80,Subway
+"3612 Forest Lane, Dallas, TX 75234, USA",9.84,Subway
+"10660 Plano Rd, Dallas, TX 75238, USA",9.86,Subway
+"11260 N. Central Expressway, Dallas, TX 75243, USA",8.75,Subway
+"8181 South Lancaster Rd, Dallas, TX 75241, USA",8.92,Subway
+"10325 Lake June Road, Dallas, TX 75217, USA",9.11,Subway
+"11076 Harry Hines Blvd, Dallas, TX 75229, USA",9.20,Subway
+"7777 Forest Lane, Dallas, TX 72530, USA",9.42,Subway
+"8702 S Polk St, Dallas, TX 75232, USA",9.50,Subway
+"8207 S. Hampton Road, Dallas, TX 75232, USA",9.63,Subway
+"9730 Abrams Road, Dallas, TX 75243, USA",9.80,Subway
+"3612 Forest Lane, Dallas, TX 75234, USA",9.84,Subway
+"10660 Plano Rd, Dallas, TX 75238, USA",9.86,Subway
+"11260 N. Central Expressway, Dallas, TX 75243, USA",8.75,Subway
+"8181 South Lancaster Rd, Dallas, TX 75241, USA",8.92,Subway
+"10325 Lake June Road, Dallas, TX 75217, USA",9.11,Subway
+"11076 Harry Hines Blvd, Dallas, TX 75229, USA",9.20,Subway
+"7777 Forest Lane, Dallas, TX 72530, USA",9.42,Subway
+"8702 S Polk St, Dallas, TX 75232, USA",9.50,Subway
+"8207 S. Hampton Road, Dallas, TX 75232, USA",9.63,Subway
+"9730 Abrams Road, Dallas, TX 75243, USA",9.80,Subway
+"3612 Forest Lane, Dallas, TX 75234, USA",9.84,Subway
+"10660 Plano Rd, Dallas, TX 75238, USA",9.86,Subway
+"11260 N. Central Expressway, Dallas, TX 75243, USA",8.75,Subway
+"8181 South Lancaster Rd, Dallas, TX 75241, USA",8.92,Subway
+"10325 Lake June Road, Dallas, TX 75217, USA",9.11,Subway
+"11076 Harry Hines Blvd, Dallas, TX 75229, USA",9.20,Subway
+"7777 Forest Lane, Dallas, TX 72530, USA",9.42,Subway
+"8702 S Polk St, Dallas, TX 75232, USA",9.50,Subway
+"8207 S. Hampton Road, Dallas, TX 75232, USA",9.63,Subway
+"9730 Abrams Road, Dallas, TX 75243, USA",9.80,Subway
+"3612 Forest Lane, Dallas, TX 75234, USA",9.84,Subway
+"10660 Plano Rd, Dallas, TX 75238, USA",9.86,Subway
+address,distance,restaurant_type
+"1545 North Main Street, Vidor, TX 77662, USA",48.1,Subway
+"2800 26th Street, Port Arthur, TX 77640, USA",48.5,Subway
+"1538 Hwy 190 West, Eunice, LA 70535, USA",49.4,Subway
+"1807 Nederland Ave, Nederland, TX 77627, USA",49.7,Subway
+"2019 North Parkerson Ave, Crowley, LA 70526, USA",49.8,Subway
+"1117 S Margaret, Kirbyville, TX 75956, USA",49.9,Subway
+"1802 W Laurel, Eunice, LA 70535, USA",50.2,Subway
+"8565 Memorial Boulevard, Port Arthur, TX 77640, USA",50.3,Subway
+"2357 Hwy. 69, Nederland, TX 77627, USA",51.4,Subway
+"116 W George B Mowad Hwy, Oakdale, LA 71463, USA",52.1,Subway
+address,distance,restaurant_type
+"530 E. McDowell Rd., Phoenix, AZ 85004, USA",1.34,Subway
+"1515 E. Buckeye Road, Phoenix, AZ 85034, USA",1.63,Subway
+"2817 N. Central Ave., Phoenix, AZ 85004, USA",2.14,Subway
+"2835 N 16th St, Phoenix, AZ 85006-1268, USA",2.66,Subway
+"1616 N 24th St, Phoenix, AZ 85008, USA",2.80,Subway
+"2775 W. Thomas Rd., Phoenix, AZ 85017, USA",3.37,Subway
+"5217 S Central Ave, Phoenix, AZ 85040-8774, USA",3.41,Subway
+"3555 W Van Buren, Phoenix, AZ 85009, USA",3.59,Subway
+"1950 W Indian School Rd, Phoenix, AZ 85015-5114, USA",3.61,Subway
+"4102 N 24th St, Phoenix, AZ 85016-6283, USA",4.10,Subway
+name,address,restaurant_type
+200 Richards Blvd,"Sacramento, CA 95814-0236",McDonalds
+3006 K Street,"Sacramento, CA 95816",McDonalds
+2331 Broadway,"Sacramento, CA 95818",McDonalds
+1700 W Capitol Ave,"West Sacramento, CA 95691-2520",McDonalds
+2985 Freeport Blvd,"Sacramento, CA 95818-3842",McDonalds
+2729 W Capitol Ave,"West Sacramento, CA 95691",McDonalds
+2244 Lake Washington Blvd,"West Sacramento, CA 95691",McDonalds
+3331 W El Camino Ave,"Sacramento, CA 95833",McDonalds
+800 Riverpoint Cir,"West Sacramento, CA 95605",McDonalds
+2517 Del Paso Blvd,"Sacramento, CA 95815-2510",McDonalds
+5525 Folsom Blvd,"Sacramento, CA 95819-4603",McDonalds
+3773 Northgate Blvd,"Sacramento, CA 95833",McDonalds
+3950 Truxel Road,"Sacramento, CA 95834",McDonalds
+1721 Howe Ave,"Sacramento, CA 95825-2209",McDonalds
+2320 Fair Oaks Blvd,"Sacramento, CA 95825-4709",McDonalds
+5425 Fruitridge Rd,"Sacramento, CA 95820-5508",McDonalds
+4242 Norwood Ave,"Sacramento, CA 95838",McDonalds
+7901 College Town Drive,"Sacramento, CA 95826",McDonalds
+The Bond At Brickell,"1080 Brickell Ave, Miami, FL 33131",Starbucks
+10th St &amp; South Miami Ave.,"901 South Miami Avenue, Mary Brickell Village, Miami, FL 33130",Starbucks
+Brickell City Centre,"701 S Miami Ave, Miami, FL 33130",Starbucks
+Intercontinental Hotel Miami L,"100 Chopin Plaza, Miami, FL 33131",Starbucks
+SE 3rd Ave &amp; 1st Street,"110 SE 3rd Ave, Miami, FL 33131",Starbucks
+Pickup - Biscayne &amp; NE 3rd St,"248 Biscayne Blvd, Miami, FL 33132",Starbucks
+All Aboard Florida Miami Centr,"350 NW 1ST AVE, MIAMI, FL 33128",Starbucks
+BAYSIDE MIAMI,"401 BISCAYNE BLVD, MIAMI, FL 33132",Starbucks
+RCI Wonder of the Seas,"1050 Caribbean Way, Miami, FL 33132",Starbucks
+RCI Utopia,"1050 Caribbean Way, Miami, FL 33132",Starbucks
+RCI Odyssey of the Seas,"1050 CARIBBEAN WAY, MIAMI, FL 33132",Starbucks
+RCI Mariner,"1050 CARIBBEAN WY, Miami, FL 33132",Starbucks
+RCI Navigator,"1050 CARIBBEAN WY, Miami, FL 33132",Starbucks
+RCI Oasis of the Seas,"1050 Caribbean Way, Miami, FL 33132",Starbucks
+RCI Harmony,"1050 Caribbean Way, Miami, FL 33132",Starbucks
+RCI Symphony,"1050 CARIBBEAN WY, Miami, FL 33132",Starbucks
+Allure of the Seas Promenade d,"1050 Caribbean Way, Miami, FL 33132",Starbucks
+RCI Icon,"1050 CARIBBEAN WAY, MIAMI, FL 33132",Starbucks
+Calle Ocho &amp; SW 17th Ave,"1701 SW 8th St, Miami, FL 33135",Starbucks
+The Grand Retail Plaza,"1717 N Bayshore Dr, Miami, FL 33132",Starbucks
+Publix Miami 1397,"1776 BISCAYNE BLVD., Miami, FL 33132",Starbucks
+Jackson Memorial Hospital,"901 NW 17th Street, Miami, FL 33136",Starbucks
+Coral Way and SW 27 Ave,"2645 SW 22nd St., Miami, FL 33145",Starbucks
+HYDE MIDTOWN MIAMI,"3403 NE 1st Ave, Miami, FL 33137",Starbucks
+Bayshore Landing,"2550 S Bayshore Drive, Coconut Grove, FL 33133",Starbucks
+Target Miami CENTRAL 2188,"3111 N Miami Ave, Miami, FL 33127",Starbucks
+TARGET GROVE STATION T-3322,"2880 Southwest 28th Lane, Miami, FL 33133",Starbucks
+Target Miami Beach 3269,"1045 5th St, Miami Beach, FL 33139",Starbucks
+Marriott Stanton South Beach,"161 Ocean Dr, Miami Beach, FL 33139",Starbucks
+Cocowalk and Main,"3400 Main Highway, Coconut Grove, FL 33133",Starbucks
+826 Lincoln Rd,"826 Lincoln Rd, Miami Beach, FL 33139",Starbucks
+Target Coral Gables 3350,"1906 Ponce De Leon Blvd, Coral Gables, FL 33134",Starbucks
+1451 Ocean Drive,"1455 Ocean Drive, South Beach, FL 33139",Starbucks
+Target Miami NW 7th St T-3420,"3825 NW 7th St, Miami, FL 33126",Starbucks
+292 Miracle Mile,"292 Miracle Mile, Coral Gables, FL 33134",Starbucks
+LeJeune Rd &amp; NW 1st St,"180 NW, 42nd Ave, Miami, FL 33126",Starbucks
+200 Crandon Blvd,"200 Crandon Blvd, Key Biscayne, FL 33149",Starbucks
+6320 Biscayne Blvd,"6320 Biscayne Blvd, Miami, FL 33138",Starbucks
+827 Arthur Godfrey Road,"827 West 41st Street, Miami Beach, FL 33140",Starbucks
+475 S Dixie Hwy,"475 South Dixie Hwy, Coral Gables, FL 33146",Starbucks
+2912 Collins Avenue,"2912 Collins Avenue, Miami Beach, FL 33140",Starbucks
+MIA Gate J7,"4250 NW 20th St, Miami, FL 33126",Starbucks
+MIA Gate D10,"4200 NW 21st St, Miami, FL 33128",Starbucks
+MIA Gate H4,"4200 NW 21st Street, Miami International Airport, Miami, FL 33128",Starbucks
+MIA Conc. D Lower Level Intl A,"2100 NW 42nd Ave, Miami, FL 33126",Starbucks
+MIA PRE-SECURITY Concourse D D,"4250 NW 20th Building 2074, Miami, FL 33126",Starbucks
+1122 S Dixie Hwy,"1122 S Dixie Hwy, Coral Gables, FL 33146",Starbucks
+MIA Gate D32,"2100 NW 42nd Ave, Miami, FL 33126",Starbucks
+"2701 Airline Hwy, Metairie, LA 70001, USA",504-831-9350,Subway
+"8101 West Judge Perez Drive, Chalmette, LA 70043, USA",504-278-1858,Subway
+"4810 La Palco Blvd, Marrero, LA 70072, USA",504-341-0833,Subway
+"3700 Lapalco Blvd, Harvey, LA 70058, USA",504-340-3871,Subway
+"2645 Manhattan Blvd, Harvey, LA 70058, USA",504-362-7369,Subway
+"400 Lapalco Blvd, Gretna, LA 70056, USA",504-435-1452,Subway
+"5015 Lapalco Blvd, Marrero, LA 70072, USA",504-348-2325,Subway
+"1500 North Causeway Blvd, Metairie, LA 70001, USA",504-766-7530,Subway
+"1020 D&amp;E Westbank Expressway, Westwego, LA 70094, USA",504-328-7100,Subway
+"3810 Jefferson Hwy, Jefferson, LA 70121, USA",504-838-8508,Subway
+1000 Commerce St,"Dallas, TX 75202-3716",McDonalds
+650 N Riverfront Blvd,"Dallas, TX 75207",McDonalds
+3802 Gaston Ave,"Dallas, TX 75246",McDonalds
+3310 Al Lipscomb Way,"Dallas, TX 75210",McDonalds
+632 S Rl Thornton Fwy,"Dallas, TX 75203",McDonalds
+4151 N Central Expy,"Dallas, TX 75206",McDonalds
+5403 Ross Ave,"Dallas, TX 75206-7420",McDonalds
+5337 E Grand Ave,"Dallas, TX 75223",McDonalds
+4439 Lemmon Ave,"Dallas, TX 75219-2143",McDonalds
+705 W Jefferson,"Dallas, TX 75208-4926",McDonalds
+3026 Hampton Rd,"Dallas, TX 75212",McDonalds
+1415 E Illinois,"Dallas, TX 75212",McDonalds
+2747 Fort Worth Ave,"Dallas, TX 75211",McDonalds
+1717 W Mockingbird Ln,"Dallas, TX 75038",McDonalds
+"11260 N. Central Expressway, Dallas, TX 75243, USA",214-361-1667,Subway
+"8181 South Lancaster Rd, Dallas, TX 75241, USA",972-224-2300,Subway
+"10325 Lake June Road, Dallas, TX 75217, USA",972-402-6417,Subway
+"11076 Harry Hines Blvd, Dallas, TX 75229, USA",972-484-2241,Subway
+"7777 Forest Lane, Dallas, TX 72530, USA",972-566-4455,Subway
+"8702 S Polk St, Dallas, TX 75232, USA",972-228-3200,Subway
+"8207 S. Hampton Road, Dallas, TX 75232, USA",214-613-2364,Subway
+"9730 Abrams Road, Dallas, TX 75243, USA",214-341-3055,Subway
+"3612 Forest Lane, Dallas, TX 75234, USA",214-351-4455,Subway
+"10660 Plano Rd, Dallas, TX 75238, USA",214-503-1350,Subway
+AT&amp;T Discovery District,"208 S Akard St, Dallas, TX 75202",Starbucks
+COMMERCE STREET,"1700 COMMERCE STREET, Dallas, TX 75201",Starbucks
+Renaissance Tower,"1201 Elm Street, Dallas, TX 75270",Starbucks
+Ross Tower,"500 N. Akard St., Dallas, TX 75201",Starbucks
+Fairmont Dallas South Tower Lo,"1717 N. Akard, Dallas, TX 75201",Starbucks
+JPMC Tower,"2200 Ross Ave, Dallas, TX 75201",Starbucks
+Tom Thumb Dallas 3311,"2727 Live Oak, Dallas, TX 75204",Starbucks
+Tom Thumb Dallas 3296,"2380 Field Street, Dallas, TX 75201",Starbucks
+Pickup - Victory Park Lane,"2401 Victory Park Lane, Dallas, TX 75219",Starbucks
+McKinney &amp; Olive,"2355 Olive Street, Dallas, TX 75201",Starbucks
+Hotel Crescent Court,"400 Crescent Court, Dallas, TX 75201",Starbucks
+Hall &amp; 75,"2103 N. Hall Street, Dallas, TX 75204",Starbucks
+Gaston &amp; Haskell,"4025 Gaston Avenue, Dallas, TX 75246",Starbucks
+McKinney and Allen,"2801 Allen St., Columbus Square, Dallas, TX 75204",Starbucks
+Target Dallas 875,"2417 N Haskell Ave, Dallas, TX 75204",Starbucks
+Kroger Dallas 529,"4241 Capitol Ave, Dallas, TX 75204",Starbucks
+Cole &amp; Lemmon,"3699 McKinney Ave, West Village, Dallas, TX 75204",Starbucks
+2800 Oak Lawn,"2800 Oak Lawn, Dallas, TX 75219",Starbucks
+World Trade Center Dallas,"2050 N Stemmons Fwy, Dallas, TX 75207",Starbucks
+Lemmon &amp; Throckmorton,"4023 Lemmon Ave, Dallas, TX 75219",Starbucks
+Tom Thumb Dallas 3569,"3878 Oak Lawn Avenue, Dallas, TX 75219",Starbucks
+Greenville and Alta,"1827 Greenville Ave, Dallas, TX 75206",Starbucks
+Children's Specialty Center,"2350 NORTH STEMMONS FREEWAY, Dallas, TX 75207",Starbucks
+I-30 &amp; Winslow,"5527 ERL Thorton Fwy, Dallas, TX 75223",Starbucks
+Maple &amp; Clara,"4744 Maple Avenue, Dallas, TX 75219",Starbucks
+Kroger Dallas 509,"4901 Maple Ave, Dallas, TX 75235",Starbucks
+Knox Street,"3216 Knox Street, Dallas, TX 75205",Starbucks
+Children's Medical Center of D,"1935 MEDICAL DISTRICT DR., DALLAS, TX 75235",Starbucks
+Lakewood,"1924 Abrams Pkwy, Dallas, TX 75214",Starbucks
+Lemmon &amp; Inwood,"5715 Lemmon Avenue, Dallas, TX 75209",Starbucks
+Tom Thumb Dallas 3614,"315 South Hampton, Dallas, TX 75208",Starbucks
+Mockingbird Station,"5331 E. Mockingbird Lane, Mockingbird Station Shopping Center, Dallas, TX 75206",Starbucks
+Kroger Dallas 518,"5665 E. Mockingbird, Dallas, TX 75206",Starbucks
+Mockingbird &amp; Maple,"2455 West Mockingbird Lane, Dallas, TX 75235",Starbucks
+Garland &amp; Gaston,"7325 Gaston Ave, Dallas, TX 75214",Starbucks
+S. Methodist Univ. Fondren Lib,"Hillcrest & Mockingbird, Dallas, TX 75205",Starbucks
+Abrams &amp; Mockingbird,"6333 East Mockingbird, Mockingbird Commons S.C., Dallas, TX 75214",Starbucks
+Tom Thumb Dallas 2990,"7117 Inwood Rd, Dallas, TX 75209",Starbucks
+Snider Plaza,"6733 Hillcrest Avenue, Dallas, TX 75205",Starbucks
+Greenville &amp; Lovers,"4924 Greenville Ave, Dallas, TX 75206",Starbucks
+Mockingbird &amp; 183,"1103 W Mockingbird Ln, Dallas, TX 75247",Starbucks
+Inwood Village,"5350 W. Lovers Lane, Dallas, TX 75209",Starbucks
+Tom Thumb Dallas 2642,"5809 E Lovers Lane, Dallas, TX 75206",Starbucks
+DAL East Gate 7,"8008 Cedar Springs Rd., Dallas, TX 75235",Starbucks
+DAL West Gate 13,"3398 Tom Braniff Ln, Dallas, TX 75235",Starbucks
+I-30 &amp; Cockrell Hill,"1601 N Cockrell Hill, Pinnacle Park, Dallas, TX 75211",Starbucks
+Target Medallion 55,"212 Medallion Ctr, Dallas, TX 75214",Starbucks
+Tom Thumb Dallas 2503,"4001 Villanova St, Dallas, TX 75225",Starbucks
+1000 Commerce St,"Dallas, TX 75202-3716",McDonalds
+650 N Riverfront Blvd,"Dallas, TX 75207",McDonalds
+3802 Gaston Ave,"Dallas, TX 75246",McDonalds
+3310 Al Lipscomb Way,"Dallas, TX 75210",McDonalds
+632 S Rl Thornton Fwy,"Dallas, TX 75203",McDonalds
+4151 N Central Expy,"Dallas, TX 75206",McDonalds
+5403 Ross Ave,"Dallas, TX 75206-7420",McDonalds
+5337 E Grand Ave,"Dallas, TX 75223",McDonalds
+4439 Lemmon Ave,"Dallas, TX 75219-2143",McDonalds
+705 W Jefferson,"Dallas, TX 75208-4926",McDonalds
+3026 Hampton Rd,"Dallas, TX 75212",McDonalds
+1415 E Illinois,"Dallas, TX 75212",McDonalds
+2747 Fort Worth Ave,"Dallas, TX 75211",McDonalds
+1717 W Mockingbird Ln,"Dallas, TX 75038",McDonalds
+"1222 Commerce Street, Dallas, TX 75202, USA",214-741-3229,Subway
+"1302 Elm St, Dallas, TX 75202, USA",214-747-1088,Subway
+"1700 Pacific Ave, Dallas, TX 75201, USA",214-965-9499,Subway
+"901 Main Street, Dallas, TX 75202, USA",469-291-5075,Subway
+"400 N St Paul St, Dallas, TX 75201-3121, USA",214-754-4900,Subway
+"509 Elm Street, Dallas, TX 75202, USA",214-651-9268,Subway
+"2025 Irving Blvd, Dallas, TX 75207, USA",214-747-7827,Subway
+"3426 Oak Lawn Avenue, Dallas, TX 75219, USA",214-528-7827,Subway
+"428 E Jefferson, Dallas, TX 75203, USA",214-942-8222,Subway
+"2525 Wycliff Avenue, Dallas, TX 75219, USA",214-219-9885,Subway
+"1222 Commerce Street, Dallas, TX 75202, USA","1222 Commerce Street, Dallas, TX 75202, USA",Subway
+"1302 Elm St, Dallas, TX 75202, USA","1302 Elm St, Dallas, TX 75202, USA",Subway
+"1700 Pacific Ave, Dallas, TX 75201, USA","1700 Pacific Ave, Dallas, TX 75201, USA",Subway
+"901 Main Street, Dallas, TX 75202, USA","901 Main Street, Dallas, TX 75202, USA",Subway
+"400 N St Paul St, Dallas, TX 75201-3121, USA","400 N St Paul St, Dallas, TX 75201-3121, USA",Subway
+"509 Elm Street, Dallas, TX 75202, USA","509 Elm Street, Dallas, TX 75202, USA",Subway
+"2025 Irving Blvd, Dallas, TX 75207, USA","2025 Irving Blvd, Dallas, TX 75207, USA",Subway
+"3426 Oak Lawn Avenue, Dallas, TX 75219, USA","3426 Oak Lawn Avenue, Dallas, TX 75219, USA",Subway
+"428 E Jefferson, Dallas, TX 75203, USA","428 E Jefferson, Dallas, TX 75203, USA",Subway
+"2525 Wycliff Avenue, Dallas, TX 75219, USA","2525 Wycliff Avenue, Dallas, TX 75219, USA",Subway
