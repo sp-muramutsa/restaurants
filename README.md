@@ -1,5 +1,3 @@
-Here's an updated README for the **Restaurant Location Visualization** project, including the installation and setup instructions:
-
 ```markdown
 # Restaurant Location Visualization
 
@@ -36,8 +34,8 @@ This project involves crawling data for American McDonald's, Subway, and Starbuc
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/sp-muramutsa/restaurants.git
+   cd restaurants
    ```
 
 2. **Install Dependencies**:
