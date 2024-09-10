@@ -7,17 +7,17 @@ This project involves crawling data for American McDonald's, Subway, and Starbuc
 ## Project Structure
 
 - **data/**
-  - `restaurants.csv`: Raw data containing information about restaurant locations.
+  - `Restaurants.csv`: Raw data containing information about restaurant locations.
   - `restaurants_geo.csv`: Cleaned data with latitude and longitude values obtained via geocoding.
 
 - **notebooks/**
-  - `mcdonalds_crawl.ipynb`: Jupyter notebook for crawling data from [McDonald's Restaurant Locator](https://www.mcdonalds.com/us/en-us/restaurant-locator.html).
-  - `starbucks_crawl.ipynb`: Jupyter notebook for crawling data from [Starbucks Store Locator](https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z).
-  - `subway_crawl.ipynb`: Jupyter notebook for crawling data from [Subway Locator](https://www.subway.com/en-us/locator).
-  - `geolocation_cleaning.ipynb`: Jupyter notebook for cleaning data and obtaining geocoded coordinates.
+  - `mcdonalds.ipynb`: Jupyter notebook for crawling data from [McDonald's Restaurant Locator](https://www.mcdonalds.com/us/en-us/restaurant-locator.html).
+  - `starbucks.ipynb`: Jupyter notebook for crawling data from [Starbucks Store Locator](https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z).
+  - `subway.ipynb`: Jupyter notebook for crawling data from [Subway Locator](https://www.subway.com/en-us/locator).
+  - `geolocation.ipynb`: Jupyter notebook for cleaning data and obtaining geocoded coordinates with Folium.
 
 - **visual/**
-  - `map.py`: Python script to generate a map visualization of the restaurant locations using Folium.
+  - `map.ipynb`: Python script to generate a map visualization of the restaurant locations using Folium.
 
 ## Requirements
 
@@ -39,11 +39,11 @@ This project involves crawling data for American McDonald's, Subway, and Starbuc
 
 3. **Clean Data and Geocode**
 
-   Use the `geolocation_cleaning.ipynb` notebook to clean the data and obtain geocoded coordinates. This notebook processes `restaurants.csv` and saves the results in `restaurants_geo.csv`.
+   Use the `geolocation.ipynb` notebook to clean the data and obtain geocoded coordinates. This notebook processes `Restaurants.csv` and saves the results in `restaurants_geo.csv`.
 
 4. **Generate Map Visualization**
 
-   Use the `map.py` script in the `visual/` folder to create an HTML file, `restaurants.html`, which contains an interactive map with restaurant locations plotted using Folium.
+   Use the `map.ipynb` script in the `visual/` folder to create an HTML file, `restaurants.html`, which contains an interactive map with restaurant locations plotted using Folium.
 
 5. **View the Map**
 
@@ -51,9 +51,7 @@ This project involves crawling data for American McDonald's, Subway, and Starbuc
 
 ## Example
 
-Here’s a sample of how the data is visualized:
-
-![Map Screenshot](path/to/screenshot.png)
+A sample of usage can be found in `visual/map.ipynb`
 
 ## Links
 
