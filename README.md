@@ -1,4 +1,4 @@
-```
+```markdown
 # Restaurant Location Visualization
 
 ## Overview
@@ -73,5 +73,3 @@ A sample of usage can be found in `visual/map.ipynb`.
 - [Starbucks Store Locator](https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z)
 - [Subway Locator](https://www.subway.com/en-us/locator)
 ```
-
-Make sure to replace `https://github.com/yourusername/your-repository.git` with the actual URL of your GitHub repository and update the `Contact` section with your actual email address.
