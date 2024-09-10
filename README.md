@@ -1,4 +1,4 @@
-```markdown
+```
 # Restaurant Location Visualization
 
 ## Overview
