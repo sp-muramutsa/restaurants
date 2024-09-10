@@ -1,3 +1,6 @@
+Here's an updated README for the **Restaurant Location Visualization** project, including the installation and setup instructions:
+
+```markdown
 # Restaurant Location Visualization
 
 ## Overview
@@ -27,38 +30,50 @@ This project involves crawling data for American McDonald's, Subway, and Starbuc
 - requests (for geocoding API)
 - [MapQuest API Key](https://developer.mapquest.com/)
 
-## Usage
+## Installation and Setup
 
-1. **Prepare Data**
+1. **Clone the Repository**:
+   Clone the repository to your local machine:
 
-   Ensure that `restaurants.csv` is present in the `data/` directory.
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
+   cd your-repository
+   ```
 
-2. **Crawl Data**
+2. **Install Dependencies**:
+   Install the required Python libraries using pip:
 
+   ```bash
+   pip install pandas folium requests
+   ```
+
+3. **Obtain MapQuest API Key**:
+   Sign up for a MapQuest API Key at [MapQuest Developer](https://developer.mapquest.com/) and add it to your environment variables or configuration file.
+
+4. **Prepare Data**:
+   Ensure that `Restaurants.csv` is present in the `data/` directory.
+
+5. **Crawl Data**:
    Use the Jupyter notebooks in the `notebooks/` directory to crawl data for McDonald's, Starbucks, and Subway. Execute each notebook to extract data and save it into `restaurants.csv`.
 
-3. **Clean Data and Geocode**
-
+6. **Clean Data and Geocode**:
    Use the `geolocation.ipynb` notebook to clean the data and obtain geocoded coordinates. This notebook processes `Restaurants.csv` and saves the results in `restaurants_geo.csv`.
 
-4. **Generate Map Visualization**
-
+7. **Generate Map Visualization**:
    Use the `map.ipynb` script in the `visual/` folder to create an HTML file, `restaurants.html`, which contains an interactive map with restaurant locations plotted using Folium.
 
-5. **View the Map**
-
+8. **View the Map**:
    Open `restaurants.html` in your web browser to view the map.
 
 ## Example
 
-A sample of usage can be found in `visual/map.ipynb`
+A sample of usage can be found in `visual/map.ipynb`.
 
 ## Links
 
 - [McDonald's Restaurant Locator](https://www.mcdonalds.com/us/en-us/restaurant-locator.html)
 - [Starbucks Store Locator](https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z)
 - [Subway Locator](https://www.subway.com/en-us/locator)
+```
 
-## Contributing
-
-Feel free to open issues or submit pull requests if you have suggestions or improvements!
+Make sure to replace `https://github.com/yourusername/your-repository.git` with the actual URL of your GitHub repository and update the `Contact` section with your actual email address.
