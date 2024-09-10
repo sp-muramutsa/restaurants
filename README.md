@@ -33,17 +33,13 @@ This project involves crawling data for American McDonald's, Subway, and Starbuc
 1. **Clone the Repository**:
    Clone the repository to your local machine:
 
-   ```
    git clone https://github.com/sp-muramutsa/restaurants.git
    cd restaurants
-   ```
 
 2. **Install Dependencies**:
    Install the required Python libraries using pip:
 
-   ```
    pip install pandas folium requests
-   ```
 
 3. **Obtain MapQuest API Key**:
    Sign up for a MapQuest API Key at [MapQuest Developer](https://developer.mapquest.com/) and add it to your environment variables or configuration file.
