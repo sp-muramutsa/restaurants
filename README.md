@@ -1,4 +1,3 @@
-```markdown
 # Restaurant Location Visualization
 
 ## Overview
@@ -68,4 +67,4 @@ A sample of usage can be found in `visual/map.ipynb`.
 - [McDonald's Restaurant Locator](https://www.mcdonalds.com/us/en-us/restaurant-locator.html)
 - [Starbucks Store Locator](https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z)
 - [Subway Locator](https://www.subway.com/en-us/locator)
-```
+
